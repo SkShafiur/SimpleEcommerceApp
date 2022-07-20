@@ -1,0 +1,8 @@
+Admin
+pwd: Temp1234*
+admin@admin.com
+
+Customer
+pwd: Temp1234*
+     Test123*		
+customer@customer.com
